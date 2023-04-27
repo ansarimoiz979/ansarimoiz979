@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarimoiz979&label=Profile%20views&color=0e75b6&style=flat" alt="ansarimoiz979" /> </p>
 
-- 🔭 I’m currently working on [connetIn](https://github.com/ansarimoiz979/connectin-backend)
+<!-- - 🔭 I’m currently working on [connetIn](https://github.com/ansarimoiz979/connectin-backend)
 
 - 🌱 I’m currently learning **spring boot**
 
@@ -11,7 +11,20 @@
 
 - 💬 Ask me about **Data structure, Node, Angular, React, java, java-script, rest Api's, Microservices etc.**
 
-- 📫 How to reach me **moizmit02@gmail.com**
+- 📫 How to reach me **moizmit02@gmail.com** -->
+
+<details><summary> Intro </summary>
+
+### <div align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+
+  - 😎 Interested in contributing expertise in web, unity and blockchain development
+  - 👯 I hope someday collaborate with on Innovative Projects
+  - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+  - 📚 Love reading books on personal development & financial literacy.
+  - ⚡ Quotes: What you do today can improve all of your tomorrows.
+    
+</details>  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
